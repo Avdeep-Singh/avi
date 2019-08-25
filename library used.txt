@@ -1,0 +1,7 @@
+library used:-
+		os (operating system)
+		pygame
+		ID3
+		tkinter
+		askdirectory
+	
